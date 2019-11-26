@@ -3,14 +3,14 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "ru.elintd.app"
+        id          = "ru.elintd.app."
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. www.elintd.ru</name>
 
     <description>
-        Бытовая техника, посуда, хозтовары, оптом!
+        Торговый Дом ЭЛИН
     </description>
 
     <author>Tadapp</author>
